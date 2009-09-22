@@ -1,6 +1,6 @@
-= cli
+= CLI
 
-Description goes here.
+ANSI styling and other utilities for writing CLI Ruby tools
 
 == Note on Patches/Pull Requests
  
