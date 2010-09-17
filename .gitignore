@@ -3,4 +3,5 @@
 coverage
 rdoc
 pkg
-cli-*.gem
+andycli-*.gem
+andycli.gemspec

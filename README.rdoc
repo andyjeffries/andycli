@@ -1,4 +1,4 @@
-= CLI
+= AndyCLI
 
 ANSI styling and other utilities for writing CLI Ruby tools
 
@@ -15,4 +15,4 @@ ANSI styling and other utilities for writing CLI Ruby tools
 
 == Copyright
 
-Copyright (c) 2009 Andy Jeffries. See LICENSE for details.
+Copyright (c) 2009-2010 Andy Jeffries. See LICENSE for details.

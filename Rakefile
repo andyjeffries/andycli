@@ -4,11 +4,11 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "cli"
+    gem.name = "andycli"
     gem.summary = %Q{Command Line utilities for small Ruby utilities}
     gem.description = %Q{ANSI styling and other utilities for writing CLI Ruby tools}
     gem.email = "andy@andyjeffries.co.uk"
-    gem.homepage = "http://github.com/andyjeffries/cli"
+    gem.homepage = "http://github.com/andyjeffries/andycli"
     gem.authors = ["Andy Jeffries"]
     # gem.add_development_dependency "thoughtbot-shoulda"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
